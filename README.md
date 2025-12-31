@@ -1,58 +1,45 @@
-# Lab Company — Cybersecurity (Ambiente Fictício)
+# Lab Company — Cybersecurity (Hub)
 
-Este repositório é o **hub** do meu laboratório de cibersegurança baseado em uma **empresa fictícia**, criado para demonstrar, de forma prática e organizada, como eu estruturo e conecto:
+Este repositório é o **hub** do meu laboratório de cibersegurança baseado em uma **empresa fictícia**, criado para demonstrar na prática como eu conecto:
 
-- **GRC & Resiliência**
-- **Gestão de Vulnerabilidades (VM)**
-- **Resposta a Incidentes (IR)**
-- **Threat Intelligence (TI)**
-- **Métricas e Operating Model**
+- GRC & Resiliência
+- Gestão de Vulnerabilidades (VM)
+- Resposta a Incidentes (IR)
+- Threat Intelligence (TI)
+- Métricas e Operating Model
 
-> Objetivo: mostrar método, governança e execução, sem expor dados sensíveis.
-
----
-
-## 🎯 O que este lab demonstra
-
-- construção de uma empresa fictícia com ativos, processos e serviços
-- cenários realistas (fictícios) para testes, tabletop e validações
-- artefatos e entregas com padrão corporativo (templates, playbooks e relatórios)
+> Todo o conteúdo é fictício/sanitizado, voltado para fins educacionais e demonstrativos.
 
 ---
 
-## 🗂️ Estrutura (mapa)
-
-- `01-overview/` — visão do lab, escopo e diagrama
-- `02-fictional-assets/` — ativos, sistemas, processos e organização fictícios
-- `03-scenarios/` — catálogo e templates de cenários
-- `04-links-to-pillars/` — links para os repositórios pilares
+## ✅ Status
+🚧 **Em construção (alimentado conforme o laboratório evolui).**  
+A base do portfólio está nos repositórios pilares abaixo.
 
 ---
 
-## ✅ Como navegar (sequência recomendada)
+## 🧭 Repositórios pilares (portfólio)
 
-1) Entenda o lab:
-- `01-overview/lab-vision-and-scope.md`
-- `01-overview/what-is-simulated.md`
+- **GRC & Resiliência:** `grc-resilience-playbook`
+- **Gestão de Vulnerabilidades:** `vulnerability-management-lab`
+- **Resposta a Incidentes:** `incident-response-playbooks`
+- **Threat Intelligence:** `threat-intelligence`
+- **Métricas & KPIs:** `security-metrics-and-kpis`
+- **Operating Model:** `security-program-operating-model`
 
-2) Veja os ativos e processos:
-- `02-fictional-assets/asset-inventory.md`
-- `02-fictional-assets/process-register.md`
+---
 
-3) Acesse cenários e simulações:
-- `03-scenarios/scenario-catalog.md`
-- `03-scenarios/scenario-template.md`
-
-4) Vá para os pilares:
-- `04-links-to-pillars/pillars-index.md`
+## 🗺️ Roadmap do Lab (próximas entregas)
+- [ ] Diagrama de rede/topologia (sanitizado)
+- [ ] Inventário fictício de ativos e serviços
+- [ ] Catálogo de cenários (phishing, CVE, indisponibilidade, vazamento simulado)
+- [ ] Evidências/prints e relatórios (fictícios) + vídeos no YouTube
 
 ---
 
 ## ⚠️ Disclaimers
-
-- Todo o conteúdo é **fictício** e voltado para fins educacionais/demonstrativos.
-- Não há dados reais de produção, credenciais, PII ou detalhes internos.
-- Quaisquer indicadores (IOCs), logs e exemplos são sanitizados ou simulados.
+- Não contém dados reais de produção, credenciais ou PII.
+- Nenhum material aqui deve ser usado para exploração em ambientes de terceiros.
 
 ---
 
